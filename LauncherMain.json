@@ -1,0 +1,17 @@
+{
+  "ServerOn": "True",
+  "MessageServerFalse": "",
+  "Version": "1.1",
+  "gamesizeOriginal": "-",
+  "gamesizeOriginalFix": "-",
+  "gamesizeENBLow": "-",
+  "gamesizeENBSetting": "-",
+  "gamesizeENBHigh": "-",
+  "ASIC": "999",
+  "CSC": "999",
+  "LUAC": "999",
+  "CBURLLIST": "cleocc.asi,false",
+  "FFC": "-1",
+  "UpdateWithLink": "http://210.246.215.49/launcher/LauncherUpdate.tmp",
+  "LUpdateWithLink": "http://210.246.215.49/launcher/UpdateFileReplace.tmp"
+}
